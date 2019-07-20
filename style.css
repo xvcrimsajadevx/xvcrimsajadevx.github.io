@@ -47,10 +47,9 @@ body {
 	border: 1px solid #C12267;
 }
 
-.validate {
+#mc_embed_signup .validate {
     display: block;
-		margin: auto;
     position: relative;
     text-align: center;
-    padding: none;
-	}
+    padding: 0px;
+}
