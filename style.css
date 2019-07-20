@@ -47,7 +47,7 @@ body {
 	border: 1px solid #C12267;
 }
 
-#mc_embed_signup.validate form {
+.validate {
     display: block;
 		margin: auto;
     position: relative;
