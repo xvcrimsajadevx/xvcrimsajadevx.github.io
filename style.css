@@ -46,3 +46,11 @@ body {
 	background-color: #C12267;
 	border: 1px solid #C12267;
 }
+
+#mc_embed_signup form {
+    display: block;
+		margin: auto;
+    position: relative;
+    text-align: center;
+    padding: none;
+	}
