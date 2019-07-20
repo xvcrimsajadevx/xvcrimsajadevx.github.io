@@ -36,8 +36,8 @@ body {
 }
 
 .btn-primary {
-	margin: auto;
 	margin-top: 50px;
+	margin: auto;
 	font-size: 14px;
 	background-color: #E45E9D;
 	border: 1px solid #E45E9D;
