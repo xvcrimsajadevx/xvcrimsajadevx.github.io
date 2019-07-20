@@ -1,0 +1,48 @@
+body {
+	background-image: url(LandingStock_image_14.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: 1300px;
+	-moz-background-size: 1300px;
+	-o-background-size: 1300px;
+	background-size: 1300px;
+	background-attachment: fixed;
+	background-position: right bottom;
+	background-color: rgb(245, 224, 228);
+	overflow: hidden;
+}
+
+.container{
+	float: left;
+	height: 1000px;
+}
+
+.row {
+	padding-top: 75px;
+	padding-left: 30px;
+	font-size: 40px;
+	color: #C12267;
+	font-family: 'Acme', sans-serif;
+}
+
+.signup {
+	position: absolute;
+	right: 270px;
+	bottom: 140px;
+	transform: rotate(-32deg);
+	width: 150px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Acme', sans-serif;
+}
+
+.btn-primary {
+	margin-top: 50px;
+	font-size: 14px;
+	background-color: #E45E9D;
+	border: 1px solid #E45E9D;
+}
+
+.btn-primary:hover {
+	background-color: #C12267;
+	border: 1px solid #C12267;
+}
