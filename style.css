@@ -25,7 +25,7 @@ body {
 }
 
 .signup {
-	position: relative;
+	position: absolute;
 	right: 270px;
 	bottom: 140px;
 	transform: rotate(-32deg);
@@ -37,7 +37,6 @@ body {
 
 .btn-primary {
 	margin-top: 50px;
-	margin: auto;
 	font-size: 14px;
 	background-color: #E45E9D;
 	border: 1px solid #E45E9D;
@@ -46,11 +45,4 @@ body {
 .btn-primary:hover {
 	background-color: #C12267;
 	border: 1px solid #C12267;
-}
-
-#mc_embed_signup form {
-    display: block;
-    position: relative;
-    text-align: center !important;
-    padding: 10px 0 10px 3%;
 }
